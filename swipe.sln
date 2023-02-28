@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swipe", "swipe.csproj", "{C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp", "CSharp", "{BCDA48D9-DFCC-4347-A2CA-1D05F68E5964}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "variable", "..\variable\variable.csproj", "{3A5CAED6-67C8-4290-868F-004892C1DC68}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "variable", "variable\variable.csproj", "{56F572DB-EBD1-4C4B-98E1-89413034667F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,16 +19,16 @@ Global
 		{C3F97EF7-0B0A-4AF6-A4B6-65C60DF193B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3F97EF7-0B0A-4AF6-A4B6-65C60DF193B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3F97EF7-0B0A-4AF6-A4B6-65C60DF193B8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3A5CAED6-67C8-4290-868F-004892C1DC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3A5CAED6-67C8-4290-868F-004892C1DC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3A5CAED6-67C8-4290-868F-004892C1DC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3A5CAED6-67C8-4290-868F-004892C1DC68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56F572DB-EBD1-4C4B-98E1-89413034667F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F572DB-EBD1-4C4B-98E1-89413034667F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F572DB-EBD1-4C4B-98E1-89413034667F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F572DB-EBD1-4C4B-98E1-89413034667F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{3A5CAED6-67C8-4290-868F-004892C1DC68} = {BCDA48D9-DFCC-4347-A2CA-1D05F68E5964}
+		{56F572DB-EBD1-4C4B-98E1-89413034667F} = {BCDA48D9-DFCC-4347-A2CA-1D05F68E5964}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1646210F-7C3E-41FD-8C21-C51CA610C3F2}
