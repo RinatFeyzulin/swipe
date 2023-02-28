@@ -1,6 +1,6 @@
 ﻿namespace lybrary
 {
-    public class Class1
+    public class variable
     {
 
     }
